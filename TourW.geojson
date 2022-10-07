@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TourW",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Nom": "Tour W, 102, Terrasse Boieldieu, La Défense 8, Puteaux, Arrondissement of Nanterre, Hauts-de-Seine, Ile-de-France, Metropolitan France, 92800, France" }, "geometry": { "type": "Point", "coordinates": [ 249232.867403113807086, 6256087.069799016229808 ] } }
+]
+}
