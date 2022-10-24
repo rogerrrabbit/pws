@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "incidents_avon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Category": "Accident de la route", "Severity": "Sévère", "Certainty": "Observé", "Urgency": "Immédiat" }, "geometry": { "type": "Point", "coordinates": [ 303438.426106079656165, 6175310.104325834661722 ] } },
+{ "type": "Feature", "properties": { "Category": "Rixe", "Severity": "Sévère", "Certainty": "Probable", "Urgency": "Prévisible" }, "geometry": { "type": "Point", "coordinates": [ 303554.762318084889557, 6176323.142016826197505 ] } },
+{ "type": "Feature", "properties": { "Category": "Arbre tombé", "Severity": "Modéré", "Certainty": "Observé", "Urgency": "Immédiat" }, "geometry": { "type": "Point", "coordinates": [ 305324.457445675740018, 6178698.330936736427248 ] } }
+]
+}
