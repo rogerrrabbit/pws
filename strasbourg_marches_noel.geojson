@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "strasbourg_marches_noel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "address": "Place de la Cathédrale, La Petite France, Krutenau, Strasbourg, Bas-Rhin, Grand Est, Metropolitan France, France" }, "geometry": { "type": "Point", "coordinates": [ 862743.374307207763195, 6204156.012311873026192 ] } },
+{ "type": "Feature", "properties": { "address": "Place Kléber, La Petite France, Krutenau, Strasbourg, Bas-Rhin, Grand Est, Metropolitan France, France" }, "geometry": { "type": "Point", "coordinates": [ 862276.522200326318853, 6204451.423615539446473 ] } },
+{ "type": "Feature", "properties": { "address": "Place Gutenberg, La Petite France, Krutenau, Strasbourg, Bas-Rhin, Grand Est, Metropolitan France, 67065, France" }, "geometry": { "type": "Point", "coordinates": [ 862571.51993075106293, 6204139.412505215033889 ] } },
+{ "type": "Feature", "properties": { "address": "Place Broglie, La Petite France, Krutenau, Strasbourg, Bas-Rhin, Grand Est, Metropolitan France, France" }, "geometry": { "type": "Point", "coordinates": [ 862761.420833898126148, 6204733.475220642983913 ] } },
+{ "type": "Feature", "properties": { "address": "Place du Château, La Petite France, Krutenau, Strasbourg, Bas-Rhin, Grand Est, Metropolitan France, France" }, "geometry": { "type": "Point", "coordinates": [ 862881.032573876087554, 6204119.447347320616245 ] } }
+]
+}
