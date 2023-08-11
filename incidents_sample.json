@@ -1,90 +1,13 @@
 {
-  "type": "FeatureCollection",
-  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "Incendie",
-        "date": "2023-08-11 @11:34:00",
-      },
-      "geometry": {
-        "coordinates": [
-          2.7172088421946796,
-          48.41749824701543
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "Incendie",
-        "date": "2023-08-11 @11:34:00",
-      },
-      "geometry": {
-        "coordinates": [
-          2.71639561418678,
-          48.416618666952814
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "Incendie",
-        "date": "2023-08-11 @11:34:00",
-      },
-      "geometry": {
-        "coordinates": [
-          2.7151908319521283,
-          48.418197902107494
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "Incendie",
-        "date": "2023-08-11 @11:34:00",
-      },
-      "geometry": {
-        "coordinates": [
-          2.7255218396147143,
-          48.4136199841864
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "Incendie",
-        "date": "2023-08-11 @11:34:00",
-      },
-      "geometry": {
-        "coordinates": [
-          2.716004059960028,
-          48.418257872096234
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "Incendie",
-        "date": "2023-08-11 @11:34:00",
-      },
-      "geometry": {
-        "coordinates": [
-          2.714257125720536,
-          48.42055666831948
-        ],
-        "type": "Point"
-      }
-    }
-  ]
+"type": "FeatureCollection",
+"name": "incidents_data_sample",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "type": "Incendie", "date": "2023-08-11 @11:34:00" }, "geometry": { "type": "Point", "coordinates": [ 2.71720884219468, 48.41749824701543 ] } },
+{ "type": "Feature", "properties": { "type": null, "date": null }, "geometry": { "type": "Point", "coordinates": [ 2.71639561418678, 48.416618666952814 ] } },
+{ "type": "Feature", "properties": { "type": null, "date": null }, "geometry": { "type": "Point", "coordinates": [ 2.715190831952128, 48.418197902107494 ] } },
+{ "type": "Feature", "properties": { "type": null, "date": null }, "geometry": { "type": "Point", "coordinates": [ 2.725521839614714, 48.413619984186397 ] } },
+{ "type": "Feature", "properties": { "type": null, "date": null }, "geometry": { "type": "Point", "coordinates": [ 2.716004059960028, 48.418257872096234 ] } },
+{ "type": "Feature", "properties": { "type": null, "date": null }, "geometry": { "type": "Point", "coordinates": [ 2.714257125720536, 48.420556668319477 ] } }
+]
 }
