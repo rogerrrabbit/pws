@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Incendie",
+        "date": "2023-08-11 @11:34:00",
+      },
+      "geometry": {
+        "coordinates": [
+          2.7172088421946796,
+          48.41749824701543
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Incendie",
+        "date": "2023-08-11 @11:34:00",
+      },
+      "geometry": {
+        "coordinates": [
+          2.71639561418678,
+          48.416618666952814
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Incendie",
+        "date": "2023-08-11 @11:34:00",
+      },
+      "geometry": {
+        "coordinates": [
+          2.7151908319521283,
+          48.418197902107494
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Incendie",
+        "date": "2023-08-11 @11:34:00",
+      },
+      "geometry": {
+        "coordinates": [
+          2.7255218396147143,
+          48.4136199841864
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Incendie",
+        "date": "2023-08-11 @11:34:00",
+      },
+      "geometry": {
+        "coordinates": [
+          2.716004059960028,
+          48.418257872096234
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "Incendie",
+        "date": "2023-08-11 @11:34:00",
+      },
+      "geometry": {
+        "coordinates": [
+          2.714257125720536,
+          48.42055666831948
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
